@@ -30,6 +30,10 @@ author:
   github   : lanl-ansi
   youtube  : https://www.youtube.com/channel/UCN-I3TeF0ilgKZZClrO860A
 
+analytics:
+  provider : "google"
+  google:
+    tracking_id : "UA-119937234-1"
 
 # Plugins (previously gems:)
 plugins:
