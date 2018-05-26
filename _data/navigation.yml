@@ -1,0 +1,12 @@
+main:
+  - title: "Overview"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /software/
+

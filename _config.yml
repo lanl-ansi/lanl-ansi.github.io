@@ -1,0 +1,48 @@
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+locale: "en-US"
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+title: "The Advanced Network Science Initiative"
+title_separator: "|"
+description: "Los Alamos National Laboratory’s Advanced Network Science Initiative (ANSI) is an interdisciplinary team to enabling fundamental and applied research to address long-term interdisciplinary challenges in critical infrastructure design, operation, and security."
+name: "The Advanced Network Science Initiative"
+url: "https://lanl-ansi.github.io"
+
+author:
+#  name    : "The Advanced Network Science Initiative"
+  avatar   : "/assets/images/ansi_sqr.png"
+  bio      : "Los Alamos National Laboratory’s Advanced Network Science Initiative."
+  location : "Los Alamos, NM"
+  email    : ansi-info@lanl.gov
+#  uri     : "https://lanl-ansi.github.io"
+  github   : lanl-ansi
+  youtube  : https://www.youtube.com/channel/UCN-I3TeF0ilgKZZClrO860A
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
