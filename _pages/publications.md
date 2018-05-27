@@ -11,10 +11,12 @@ A complete profile of ANSI's publications is available in this [Google Scholar p
 ## Highlighted Publications
 
 * Lokhov, A. Y., Vuffray, M., Misra, S., & Chertkov, M. (2018). [Optimal structure and parameter learning of Ising models.](http://advances.sciencemag.org/content/4/3/e1700791) _Science advances_, 4(3), e1700791.
+* Deka, D., Chertkov, M., & Backhaus, S. (2017). [Structure learning in power distribution networks.](https://ieeexplore.ieee.org/document/7862849/) _IEEE Transactions on Control of Network Systems_.
 * Dvijotham, K., Chertkov, M., Van Hentenryck, P., Vuffray, M., & Misra, S. (2017). [Graphical models for optimal power flow.](https://link.springer.com/article/10.1007/s10601-016-9253-y) _Constraints_, 22(1), 24-49.
 * Lu, M., Nagarajan, H., Yamangil, E., Bent, R., Backhaus, S., & Barnes, A. (2017). [Optimal Transmission Line Switching under Geomagnetic Disturbances.](https://ieeexplore.ieee.org/document/8064715/) _IEEE Transactions on Power Systems_.
 * Borraz-Sánchez, C., Bent, R., Backhaus, S., Hijazi, H., & Hentenryck, P. V. (2016). [Convex relaxations for gas expansion planning.](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2016.0697) _INFORMS Journal on Computing_, 28(4), 645-656.
 * Coffrin, C., Hijazi, H. L., & Van Hentenryck, P. (2016). [The QC relaxation: A theoretical and computational study on optimal power flow.](https://ieeexplore.ieee.org/abstract/document/7271127/) _IEEE Transactions on Power Systems_, 31(4), 3008-3018.
+* Deka, D., Backhaus, S., & Chertkov, M. (2016, June). [Estimating distribution grid topologies: A graphical learning based approach.](https://ieeexplore.ieee.org/abstract/document/7541005/) In _Power Systems Computation Conference (PSCC), 2016_ (pp. 1-7). IEEE.
 * Hijazi, H., Coffrin, C., & Van Hentenryck, P. (2016, June). [Polynomial SDP cuts for optimal power flow.](https://ieeexplore.ieee.org/abstract/document/7540908/) In _Power Systems Computation Conference (PSCC), 2016_ (pp. 1-7). IEEE.
 * Lubin, M., Yamangil, E., Bent, R., & Vielma, J. P. (2016). [Polyhedral approximation in mixed-integer convex optimization.](https://link.springer.com/article/10.1007/s10107-017-1191-y) _Mathematical Programming_, 1-30.
 * Vuffray, M., Misra, S., Lokhov, A., & Chertkov, M. (2016). [Interaction screening: Efficient and sample-optimal learning of Ising models.](http://papers.nips.cc/paper/6375-interaction-screening-efficient-and-sample-optimal-learning-of-ising-models) In _Advances in Neural Information Processing Systems_ (pp. 2595-2603).
