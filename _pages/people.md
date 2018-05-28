@@ -47,6 +47,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 ## Collaborators
 
 * Kostya Turitsyn, MIT - theoretical physics ([website](http://www.mit.edu/~turitsyn/), [publications](https://scholar.google.com/citations?user=aia2DqUAAAAJ))
+* Pascal Van Hentenryck, University of Michigan - optimization algorithms ([website](https://www.linkedin.com/in/pascal-van-hentenryck-50a5741/), [publications](https://scholar.google.com/citations?user=FTSZV7kAAAAJ))
 
 
 ## Alumni
