@@ -54,4 +54,5 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 ## Alumni
 
 * Aric Hagberg, LANL - applied mathematics ([website](https://aric.hagberg.org/), [publications](https://scholar.google.com/citations?user=ug4QQn8AAAAJ))
+* Miles Lubin, Google - optimization algorithms([website](https://mlubin.github.io/), [publications](https://scholar.google.com/citations?user=jCoWyqUAAAAJ))
 
