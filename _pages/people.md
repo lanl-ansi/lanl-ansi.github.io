@@ -38,16 +38,17 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 
 ## Postdocs & Students
 
+* Francesco Caravelli - theoretical physics ([website](https://sites.google.com/site/francescocaravelli/), [publications](https://scholar.google.com/citations?user=y0uoG2wAAAAJ))
 * Deepjyoti Deka - machine learning and control ([website](https://www.linkedin.com/in/deepjyoti-deka-8a44388/), [publications](https://scholar.google.com/citations?user=gv6Jmj0AAAAJ))
 * David Métivier - theoretical physics ([website](http://cnls.lanl.gov/~metivier/html/))
 * Kaarthik Sundar - optimization algorithms ([website](https://kaarthiksundar.github.io/), [publications](https://scholar.google.com/citations?user=jAAj8DAAAAAJ))
-* Line Roald - power engineering ([website](https://www.linkedin.com/in/line-roald-05516a3a/), [publications](https://scholar.google.com/citations?user=Z-lh8_AAAAAJ))
 * Guanglei Wang - optimization algorithms ([publications](https://scholar.google.fr/citations?user=lP1fLaMAAAAJ))
 
 
 ## Collaborators
 
 * Daniel Bienstock, Columbia University - optimization algorithms ([website](http://www.columbia.edu/~dano/), [publications](https://scholar.google.com/citations?user=pbbFBNUAAAAJ))
+* Line Roald, University of Wisconsin-Madison - power engineering ([website](https://www.linkedin.com/in/line-roald-05516a3a/), [publications](https://scholar.google.com/citations?user=Z-lh8_AAAAAJ))
 * Kostya Turitsyn, MIT - theoretical physics ([website](http://www.mit.edu/~turitsyn/), [publications](https://scholar.google.com/citations?user=aia2DqUAAAAJ))
 * Pascal Van Hentenryck, University of Michigan - optimization algorithms ([website](https://www.linkedin.com/in/pascal-van-hentenryck-50a5741/), [publications](https://scholar.google.com/citations?user=FTSZV7kAAAAJ))
 
