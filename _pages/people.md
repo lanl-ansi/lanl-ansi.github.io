@@ -42,7 +42,6 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Deepjyoti Deka - machine learning and control ([website](https://www.linkedin.com/in/deepjyoti-deka-8a44388/), [publications](https://scholar.google.com/citations?user=gv6Jmj0AAAAJ))
 * David Métivier - theoretical physics ([website](http://cnls.lanl.gov/~metivier/html/))
 * Kaarthik Sundar - optimization algorithms ([website](https://kaarthiksundar.github.io/), [publications](https://scholar.google.com/citations?user=jAAj8DAAAAAJ))
-* Guanglei Wang - optimization algorithms ([publications](https://scholar.google.fr/citations?user=lP1fLaMAAAAJ))
 
 
 ## Collaborators
