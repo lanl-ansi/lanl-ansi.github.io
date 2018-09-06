@@ -19,5 +19,5 @@ To address these challenging application areas, ANSI contributes to basic resear
 
 ## Research Opportunities
 
-ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov).
+ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov) and apply to LANL job posting [IRC68606](https://bit.ly/2wOoinK).
 
