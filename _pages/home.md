@@ -9,7 +9,7 @@ The Los Alamos National Laboratory's Advanced Network Science Initiative (ANSI) 
 
 ## Research Opportunities
 
-ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov) and apply to LANL job posting [IRC68606](https://bit.ly/2wOoinK).
+ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov) and apply to LANL job posting [IRC68606](https://lanl.jobs/los-alamos-nm/advanced-network-science-initiative-postdoctoral-research-associate/3C2D45654A214CE08B8735B5139EC61D/job/).
 
 
 ## Application Areas
