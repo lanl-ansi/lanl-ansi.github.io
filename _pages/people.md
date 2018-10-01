@@ -47,7 +47,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 ## Collaborators
 
 * Daniel Bienstock, Columbia University - optimization algorithms ([website](http://www.columbia.edu/~dano/), [publications](https://scholar.google.com/citations?user=pbbFBNUAAAAJ))
-* Line Roald, University of Wisconsin-Madison - power engineering ([website](https://www.linkedin.com/in/line-roald-05516a3a/), [publications](https://scholar.google.com/citations?user=Z-lh8_AAAAAJ))
+* Line Roald, University of Wisconsin-Madison - power engineering ([website](https://directory.engr.wisc.edu/ece/Faculty/Roald_Line/), [publications](https://scholar.google.com/citations?user=Z-lh8_AAAAAJ))
 * Kostya Turitsyn, MIT - theoretical physics ([website](http://www.mit.edu/~turitsyn/), [publications](https://scholar.google.com/citations?user=aia2DqUAAAAJ))
 * Pascal Van Hentenryck, University of Michigan - optimization algorithms ([website](https://www.linkedin.com/in/pascal-van-hentenryck-50a5741/), [publications](https://scholar.google.com/citations?user=FTSZV7kAAAAJ))
 
