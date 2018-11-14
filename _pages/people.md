@@ -42,7 +42,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 
 * Francesco Caravelli - theoretical physics ([website](https://sites.google.com/site/francescocaravelli/), [publications](https://scholar.google.com/citations?user=y0uoG2wAAAAJ))
 * David Métivier - theoretical physics ([website](http://cnls.lanl.gov/~metivier/html/))
-
+* Tillmann Weisser - applied mathematics ([website](https://homepages.laas.fr/tweisser/drupal/))
 
 ## Collaborators
 
