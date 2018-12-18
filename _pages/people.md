@@ -17,7 +17,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 
 ## Research Staff
 
-* James Arnold - geographic information systems
+* James Arnold - geographic information systems ([website](https://arnoldj.github.io/))
 * Art Barnes - power engineering ([website](http://pin3.io/))
 * Carleton Coffrin - optimization algorithms ([website](http://www.coffrin.com/), [publications](https://scholar.google.com/citations?user=IEu32BQAAAAJ&hl=en))
 * Trevor Crawford - data analytics ([website](https://www.linkedin.com/in/trevorcrawford/))
