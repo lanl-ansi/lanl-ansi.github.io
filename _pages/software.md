@@ -22,7 +22,7 @@ In addition to producing scientific publications ANSI also strives to contribute
 * [Gravity](https://github.com/Allinsights/Gravity) (c++) - a high-performance modeling layer for MINLP and MISDP.
 * [Juniper.jl](https://github.com/lanl-ansi/Juniper.jl) (julia) - a heuristic nonlinear branch-and-bound solver for non-convex MINLP.
 * [Pajarito.jl](https://github.com/JuliaOpt/Pajarito.jl) (julia) - a global optimization solver for mixed-integer convex programming (MICP).
-* [POD.jl](https://github.com/lanl-ansi/POD.jl) (julia) - a global optimization solver for non-convex MINLP.
+* [Alpine.jl](https://github.com/lanl-ansi/Alpine.jl) (julia) - a global optimization solver for non-convex MINLP.
 
 
 ## Machine Learning Methods
