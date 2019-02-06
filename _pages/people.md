@@ -29,12 +29,12 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Andrey Lokhov - theoretical physics ([website](http://lptms.u-psud.fr/andrey-lokhov/), [publications](https://scholar.google.com/citations?user=RjM_Y3gAAAAJ))
 * Yury Maximov - machine learning and optimization
 * Michael McKerns - optimization algorithms ([website](https://mmckerns.github.io/))
-* Sidhant Misra - machine learning and optimization ([website](https://www.linkedin.com/in/sidhant-misra-34301931/), [publications](https://scholar.google.com/citations?user=f-fUcoEAAAAJ))
-* Harsha Nagarajan - optimization and control theory ([website](https://harshangrjn.github.io/), [publications](https://scholar.google.com/citations?user=mMQ8eowAAAAJ))
+* Sidhant Misra - machine learning and optimization ([website](https://sidhantmisra.github.io/), [publications](https://scholar.google.com/citations?user=f-fUcoEAAAAJ))
+* Harsha Nagarajan - optimization and control theory ([website](http://harshanagarajan.com/), [publications](https://scholar.google.com/citations?user=mMQ8eowAAAAJ))
 * Michael Rivera - experimental physics
 * Kaarthik Sundar - optimization algorithms ([website](https://kaarthiksundar.github.io/), [publications](https://scholar.google.com/citations?user=jAAj8DAAAAAJ))
 * Byron Tasseff - optimization algorithms ([website](http://tasseff.com/), [publications](https://scholar.google.com/citations?user=5zv1XkcAAAAJ))
-* Marc Vuffray - information theory ([website](https://www.linkedin.com/in/marc-vuffray-6264067b/), [publications](https://scholar.google.com/citations?user=Z9Flw3IAAAAJ))
+* Marc Vuffray - information theory ([website](https://www.vuffray.com), [publications](https://scholar.google.com/citations?user=Z9Flw3IAAAAJ))
 * Anatoly Zlotnik - optimization and control theory ([website](https://azlotnik.github.io/), [publications](https://scholar.google.com/citations?user=sufIhoUAAAAJ))
 
 
