@@ -12,11 +12,6 @@ The Los Alamos National Laboratory's Advanced Network Science Initiative (ANSI) 
 ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov) and apply to LANL job posting [IRC68606](https://lanl.jobs/los-alamos-nm/advanced-network-science-initiative-postdoctoral-research-associate/3C2D45654A214CE08B8735B5139EC61D/job/).
 
 
-## 2019 Grid Science Winter School & Conference
-
-Registration is now open for ANSI's third Grid Science Winter School & Conference, program and registration details are available [here](http://cnls.lanl.gov/gridscience).  A limited number of scholarships are available to support graduate student participation, applications are due by October 30, 2018.
-
-
 ## Application Areas
 
 To help motivate and inspire novel computational methods, ANSI studies a variety of challenging problems in critical infrastructure networks, such as _Analysis of Extreme Events_, _Network-base Machine Learning and Data Analytics_, _Control and Optimization Under Uncertainty_, _Interdependencies Across Multiple Networks_, and _The Design of Resilient Networks_.  ANSI has strong expertise in power systems and natural gas systems and is currently building an expertise in potable water and cyber-physical systems.
