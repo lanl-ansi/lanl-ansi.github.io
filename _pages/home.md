@@ -24,3 +24,4 @@ To address these challenging application areas, ANSI contributes to basic resear
 ## Media Features
 **Out of the Dark**: [1663](https://www.lanl.gov/discover/publications/1663/2019-february/out-of-the-dark.php) article on how LANL-ANSI scientists strategize best to keep the lights on with a modern and secure national power grid. [url](https://www.lanl.gov/discover/publications/1663/2019-february/_assets/docs/1663-33-OutOfTheDark.pdf)
 
+**Severe Contingency Solver**: A [press release](https://www.lanl.gov/discover/news-release-archive/2019/April/0409-software-predicts-extreme-events.php) on how LANL-ANSI's software helps analyze the impact of extreme events on power grids.
