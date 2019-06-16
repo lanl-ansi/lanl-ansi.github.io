@@ -10,7 +10,7 @@ In addition to producing scientific publications ANSI also strives to contribute
 
 ## Infrastructure Networks
 
-* [GasGridModels.jl](https://github.com/lanl-ansi/GasGridModels.jl) (julia) - joint optimization of power and natural gas transmission networks.
+* [GasPowerModels.jl](https://github.com/lanl-ansi/GasPowerModels.jl) (julia) - joint optimization of power and natural gas transmission networks.
 * [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) (julia) - simulation and optimization methods for steady-state natural gas transmission networks.
 * [MICOT](https://github.com/lanl-ansi/micot) (java) - a generic framework for optimization and control of infrastructure networks.
 * [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) (julia) - simulation and optimization methods for power transmission networks.
@@ -22,7 +22,8 @@ In addition to producing scientific publications ANSI also strives to contribute
 * [Alpine.jl](https://github.com/lanl-ansi/Alpine.jl) (julia) - a global optimization solver for non-convex MINLP.
 * [Gravity](https://github.com/Allinsights/Gravity) (c++) - a high-performance modeling layer for MINLP and MISDP.
 * [Juniper.jl](https://github.com/lanl-ansi/Juniper.jl) (julia) - a heuristic nonlinear branch-and-bound solver for non-convex MINLP.
-* [Pajarito.jl](https://github.com/JuliaOpt/Pajarito.jl) (julia) - a global optimization solver for mixed-integer convex programming (MICP).
+* [Pajarito.jl](https://github.com/JuliaOpt/Pajarito.jl) (julia) - a global optimization solver for mixed-integer conic programming (MICP).
+* [Pavito.jl](https://github.com/JuliaOpt/Pavito.jl) (julia) - a global optimization solver for convex MINLP.
 
 
 
