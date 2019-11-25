@@ -43,8 +43,11 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 
 * Francesco Caravelli - theoretical physics ([website](https://sites.google.com/site/francescocaravelli/), [publications](https://scholar.google.com/citations?user=y0uoG2wAAAAJ))
 * David Métivier - theoretical physics ([website](http://cnls.lanl.gov/~metivier/html/))
+* Smitha Gopinath - optimization algorithms ([publications](https://scholar.google.com/citations?user=3nLANBsAAAAJ))
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
 * Tillmann Weisser - applied mathematics ([website](https://homepages.laas.fr/tweisser/drupal/))
+
+
 
 ## Collaborators
 
