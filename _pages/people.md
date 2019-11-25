@@ -35,9 +35,11 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Marc Vuffray - information theory ([website](https://www.vuffray.com), [publications](https://scholar.google.com/citations?user=Z9Flw3IAAAAJ))
 * Anatoly Zlotnik - optimization and control theory ([website](https://azlotnik.github.io/), [publications](https://scholar.google.com/citations?user=sufIhoUAAAAJ))
 
+
 ## Visting Faculty
 
 * Andreas Wächter - optimization algorithms ([website](http://users.iems.northwestern.edu/~andreasw/index.html), [publications](https://scholar.google.com/citations?user=Y1EdzIwAAAAJ))
+
 
 ## Postdocs & Students
 
@@ -46,7 +48,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Smitha Gopinath - optimization algorithms ([publications](https://scholar.google.com/citations?user=3nLANBsAAAAJ))
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
 * Tillmann Weisser - applied mathematics ([website](https://homepages.laas.fr/tweisser/drupal/))
-
+* Haoxiang Yang - optimization algorithms ([website](https://sites.google.com/view/haoxiangyang/))
 
 
 ## Collaborators
