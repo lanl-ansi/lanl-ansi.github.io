@@ -17,6 +17,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 ## Research Staff
 
 * Art Barnes - power system engineering ([website](http://pin3.io/))
+* Francesco Caravelli - theoretical physics ([website](https://sites.google.com/site/francescocaravelli/), [publications](https://scholar.google.com/citations?user=y0uoG2wAAAAJ))
 * Carleton Coffrin - optimization algorithms ([website](http://www.coffrin.com/), [publications](https://scholar.google.com/citations?user=IEu32BQAAAAJ&hl=en))
 * Magdalena Dale - electrical engineering ([website](https://www.linkedin.com/in/magdalena-dale-2932061a/))
 * Deepjyoti Deka - machine learning and control ([website](https://www.linkedin.com/in/deepjyoti-deka-8a44388/), [publications](https://scholar.google.com/citations?user=gv6Jmj0AAAAJ))
@@ -43,7 +44,6 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 
 ## Postdocs & Students
 
-* Francesco Caravelli - theoretical physics ([website](https://sites.google.com/site/francescocaravelli/), [publications](https://scholar.google.com/citations?user=y0uoG2wAAAAJ))
 * David Métivier - theoretical physics ([website](http://cnls.lanl.gov/~metivier/html/))
 * Smitha Gopinath - optimization algorithms ([publications](https://scholar.google.com/citations?user=3nLANBsAAAAJ))
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
