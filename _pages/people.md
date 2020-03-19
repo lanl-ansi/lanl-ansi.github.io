@@ -49,6 +49,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
 * Tillmann Weisser - applied mathematics ([website](https://homepages.laas.fr/tweisser/drupal/))
 * Haoxiang Yang - optimization algorithms ([website](https://sites.google.com/view/haoxiangyang/))
+* Sai Krishna - optimization algorithms ([website](https://scholar.google.com/citations?user=uC6TGvEAAAAJ&hl=en))
 
 
 ## Collaborators
