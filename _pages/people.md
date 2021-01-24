@@ -37,17 +37,10 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Anatoly Zlotnik - optimization and control theory ([website](https://azlotnik.github.io/), [publications](https://scholar.google.com/citations?user=sufIhoUAAAAJ))
 
 
-## Visting Faculty
-
-* Andreas Wächter - optimization algorithms ([website](http://users.iems.northwestern.edu/~andreasw/index.html), [publications](https://scholar.google.com/citations?user=Y1EdzIwAAAAJ))
-
-
 ## Postdocs & Students
 
-* David Métivier - theoretical physics ([website](http://cnls.lanl.gov/~metivier/html/))
 * Smitha Gopinath - optimization algorithms ([publications](https://scholar.google.com/citations?user=3nLANBsAAAAJ))
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
-* Tillmann Weisser - applied mathematics ([website](https://homepages.laas.fr/tweisser/drupal/))
 * Haoxiang Yang - optimization algorithms ([website](https://sites.google.com/view/haoxiangyang/))
 * Sai Krishna - optimization algorithms ([website](https://scholar.google.com/citations?user=uC6TGvEAAAAJ&hl=en))
 
@@ -57,14 +50,18 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Daniel Bienstock, Columbia University - optimization algorithms ([website](http://www.columbia.edu/~dano/), [publications](https://scholar.google.com/citations?user=pbbFBNUAAAAJ))
 * Line Roald, University of Wisconsin-Madison - power engineering ([website](https://directory.engr.wisc.edu/ece/Faculty/Roald_Line/), [publications](https://scholar.google.com/citations?user=Z-lh8_AAAAAJ))
 * Pascal Van Hentenryck, Georgia Institute of Technology - optimization algorithms ([website](http://pwp.gatech.edu/pascal-van-hentenryck/), [publications](https://scholar.google.com/citations?user=FTSZV7kAAAAJ))
+* Andreas Wächter - optimization algorithms ([website](http://users.iems.northwestern.edu/~andreasw/index.html), [publications](https://scholar.google.com/citations?user=Y1EdzIwAAAAJ))
 
 
 ## Alumni
 
 * James Arnold, RS21 - geographic information systems ([website](https://arnoldj.github.io/))
-* Scott Backhaus, Department of Homeland Security - experimental physics ([website](https://www.linkedin.com/in/scott-backhaus-6b0231141/), [publications](https://scholar.google.com/citations?user=j6kWzSEAAAAJ&hl=en))
+* Scott Backhaus, National Institute of Standards and Technology - experimental physics ([website](https://www.linkedin.com/in/scott-backhaus-6b0231141/), [publications](https://scholar.google.com/citations?user=j6kWzSEAAAAJ&hl=en))
 * Trevor Crawford, ERT Inc. - data analytics ([website](https://www.linkedin.com/in/trevorcrawford/))
 * Aric Hagberg, LANL - applied mathematics ([website](https://aric.hagberg.org/), [publications](https://scholar.google.com/citations?user=ug4QQn8AAAAJ))
 * Miles Lubin, Google - optimization algorithms([website](https://mlubin.github.io/), [publications](https://scholar.google.com/citations?user=jCoWyqUAAAAJ))
+* David Métivier, École Polytechnique - theoretical physics ([website](http://www.cmap.polytechnique.fr/~david.metivier/))
 * Kostya Turitsyn, D.E. Shaw - theoretical physics ([website](http://www.mit.edu/~turitsyn/), [publications](https://scholar.google.com/citations?user=aia2DqUAAAAJ))
+* Tillmann Weisser - applied mathematics ([website](https://homepages.laas.fr/tweisser/drupal/))
+
 
