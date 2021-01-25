@@ -41,8 +41,9 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 
 * Smitha Gopinath - optimization algorithms ([publications](https://scholar.google.com/citations?user=3nLANBsAAAAJ))
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
-* Haoxiang Yang - optimization algorithms ([website](https://sites.google.com/view/haoxiangyang/))
+* Rohit Kannan - optimization algorithms ([website](https://rohitkannan.github.io/), [publications](https://scholar.google.com/citations?user=eC9xQAsAAAAJ))
 * Sai Krishna - optimization algorithms ([website](https://scholar.google.com/citations?user=uC6TGvEAAAAJ&hl=en))
+* Haoxiang Yang - optimization algorithms ([website](https://sites.google.com/view/haoxiangyang/))
 
 
 ## Collaborators
