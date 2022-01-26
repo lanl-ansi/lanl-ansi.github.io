@@ -10,6 +10,7 @@ A complete profile of ANSI's publications is available in this [Google Scholar p
 
 ## Highlighted Publications
 
+* Caravelli, F., Sheldon, F. C., & Traversa, F. L. (2021). [Global minimization via classical tunneling assisted by collective force field formation.](https://www.science.org/doi/10.1126/sciadv.abh1542) _Science advances_, 7(52), abh1542.
 * Lokhov, A. Y., Vuffray, M., Misra, S., & Chertkov, M. (2018). [Optimal structure and parameter learning of Ising models.](http://advances.sciencemag.org/content/4/3/e1700791) _Science advances_, 4(3), e1700791.
 * Deka, D., Chertkov, M., & Backhaus, S. (2017). [Structure learning in power distribution networks.](https://ieeexplore.ieee.org/document/7862849/) _IEEE Transactions on Control of Network Systems_.
 * Dvijotham, K., Chertkov, M., Van Hentenryck, P., Vuffray, M., & Misra, S. (2017). [Graphical models for optimal power flow.](https://link.springer.com/article/10.1007/s10601-016-9253-y) _Constraints_, 22(1), 24-49.
