@@ -43,8 +43,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
 * Rohit Kannan - optimization algorithms ([website](https://rohitkannan.github.io/), [publications](https://scholar.google.com/citations?user=eC9xQAsAAAAJ))
 * Sai Krishna - optimization algorithms ([website](https://scholar.google.com/citations?user=uC6TGvEAAAAJ&hl=en))
-* Haoxiang Yang - optimization algorithms ([website](https://sites.google.com/view/haoxiangyang/))
-
+* Saif R. Kazi - optimization algorithms ([website] https://sites.google.com/andrew.cmu.edu/saif/home)
 
 ## Collaborators
 
@@ -64,5 +63,6 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * David Métivier, École Polytechnique - theoretical physics ([website](http://www.cmap.polytechnique.fr/~david.metivier/))
 * Kostya Turitsyn, D.E. Shaw - theoretical physics ([website](http://www.mit.edu/~turitsyn/), [publications](https://scholar.google.com/citations?user=aia2DqUAAAAJ))
 * Tillmann Weisser - applied mathematics ([website](https://homepages.laas.fr/tweisser/drupal/))
+* Haoxiang Yang - optimization algorithms ([website](https://sites.google.com/view/haoxiangyang/))
 
 
