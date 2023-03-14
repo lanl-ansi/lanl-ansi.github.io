@@ -35,3 +35,4 @@ In addition to producing scientific publications ANSI also strives to contribute
 ## Emerging Computational Platforms
 
 * [DWIG](https://github.com/lanl-ansi/dwig) (python) - tools for generating D-Wave benchmarking problems.
+* [QuantumCircuitOpt.jl](https://github.com/harshangrjn/QuantumCircuitOpt.jl) (julia) - simulation and optimization methods for design of Quantum circuits.
