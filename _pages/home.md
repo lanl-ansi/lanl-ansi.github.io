@@ -23,7 +23,7 @@ To address these challenging application areas, ANSI contributes to basic resear
 
 ## Media Features
 
-**ARPA-e Grid Optimization Competition**: [Los Alamos scientists take top prizes in national competition to help improve electrical grid](https://discover.lanl.gov/news/releases/1004-electrical-grid-competition)
+**ARPA-e Grid Optimization Competition**: [Los Alamos scientists take top prizes in national competition to help improve electrical grid](https://discover.lanl.gov/news/1004-electrical-grid-competition/)
 
 **Quantum Annealing Hardware Evaluation**: [Software evaluates qubits, characterizes noise in quantum annealers](https://discover.lanl.gov/news/releases/quantum-annealers) ([technical report](https://ieeexplore.ieee.org/document/9465651))
 
