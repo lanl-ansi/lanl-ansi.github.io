@@ -9,10 +9,8 @@ The Los Alamos National Laboratory's Advanced Network Science Initiative (ANSI) 
 
 ## Research Opportunities
 
-ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov).  Current open apointments include,
-* [Staff, Infrastructure Scientist](https://lanl.jobs/los-alamos-nm/infrastructure-scientist-scientsit-23/78231D15F1EB43B7A49FF65D6E282A48/job/)
-* [Staff, Scientific Software Developer](https://lanl.jobs/los-alamos-nm/information-sciences-and-modeling-software-developer-software-developer-2/716622E581BE4D0EB1BDAF07C7A5FD4F/job/)
-* [Postdoc, Power Systems](https://lanl.jobs/los-alamos-nm/electrical-power-system-modeling-postdoc/2A42BA3C2BA64014A7E9949DBD923DE0/job/)
+ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov).
+
 
 ## Application Areas
 
