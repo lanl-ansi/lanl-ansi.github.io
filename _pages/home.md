@@ -11,6 +11,11 @@ The Los Alamos National Laboratory's Advanced Network Science Initiative (ANSI) 
 
 ANSI is always looking to motivated and enthusiastic persons to contribute to this research through postdoc and student appointments.  Interested parties are encouraged to inquire at [ansi-info@lanl.gov](mailto:ansi-info@lanl.gov).
 
+We are currently looking to fill these two positions:
+- [Postdoc](https://lanl.jobs/search/jobdetails/microgrid-postdoctoral-research-associate/f47f3ac6-7caf-4213-a325-f1ee3b4489e2)
+- [Scientist](https://lanl.jobs/search/jobdetails/microgrid-scientist-scientist-2/b2696055-3997-4a53-a246-147bc4e9f2fe)
+
+
 
 ## Application Areas
 
