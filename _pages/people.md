@@ -38,7 +38,8 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 
 
 ## Postdocs & Students
-
+* Noah Rhodes - power system engineering ([website](https://noahrhodes.github.io/), [publications](https://scholar.google.com/citations?user=mNg8AdkAAAAJ&hl=en&oi=ao))
+* Robert Fernando - applied math ([publications](https://scholar.google.com/citations?user=8IlEM74AAAAJ&hl=en&oi=sra))
 * Smitha Gopinath - optimization algorithms ([publications](https://scholar.google.com/citations?user=3nLANBsAAAAJ))
 * Forrest Sheldon - theoretical physics ([website](https://cnls.lanl.gov/External/people/Forrest_Sheldon.php), [publications](https://scholar.google.com/citations?user=GC3WWIUAAAAJ))
 * Rohit Kannan - optimization algorithms ([website](https://rohitkannan.github.io/), [publications](https://scholar.google.com/citations?user=eC9xQAsAAAAJ))
