@@ -39,7 +39,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 ## Postdocs & Students
 * Shiba Biswal - control theory ([publications](https://scholar.google.com/citations?user=bt69nJAAAAAJ&hl=en))
 * Karthik Elamvazhuthi - control theory ([website](https://sites.google.com/view/karthikelamvazhuthi/home), [publications](https://scholar.google.com/citations?user=YylCk8QAAAAJ&hl))
-* Robert Fernando - applied math ([publications](https://scholar.google.com/citations?user=8IlEM74AAAAJ&hl=en&oi=sra))
+* Robert Ferrando - applied math ([publications](https://scholar.google.com/citations?user=8IlEM74AAAAJ&hl=en&oi=sra))
 * Noah Rhodes - power system engineering ([website](https://noahrhodes.github.io/), [publications](https://scholar.google.com/citations?user=mNg8AdkAAAAJ&hl=en&oi=ao))
 * Sachin Shivakumar - control theory ([publications](https://scholar.google.com/citations?user=hnPOWoMAAAAJ&hl=en))
 
