@@ -61,7 +61,7 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Trevor Crawford, ERT Inc. - data analytics ([website](https://www.linkedin.com/in/trevorcrawford/))
 * Magdalena Dale - electrical engineering ([website](https://www.linkedin.com/in/magdalena-dale-2932061a/))
 * Deepjyoti Deka, MIT - machine learning and control ([website](https://www.linkedin.com/in/deepjyoti-deka-8a44388/), [publications](https://scholar.google.com/citations?user=gv6Jmj0AAAAJ))
-* Mary Ewers - infrastructure analysis ([website](https://www.linkedin.com/in/mary-ewers-72a684b/), [publications](https://scholar.google.com/citations?user=yBivdKsAAAAJ))
+* Mary Ewers, Retired - infrastructure analysis ([website](https://www.linkedin.com/in/mary-ewers-72a684b/), [publications](https://scholar.google.com/citations?user=yBivdKsAAAAJ))
 * Zach Fox, Oak Ridge National Laboratory - computational biology ([website](https://zachfox.github.io/), [publications](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl))
 * Smitha Gopinath, University of Sheffield - optimization algorithms ([publications](https://scholar.google.com/citations?user=3nLANBsAAAAJ))
 * Aric Hagberg, LANL - applied mathematics ([website](https://aric.hagberg.org/), [publications](https://scholar.google.com/citations?user=ug4QQn8AAAAJ))
@@ -70,7 +70,6 @@ The ANSI team is highly interdisciplinary, leverages a wide variety of expertise
 * Wenting Li, Georgia Institute of Technology - machine learning ([website](https://wendy0601.github.io/), [publications](https://scholar.google.com/citations?user=acgZVaoAAAAJ&hl))
 * Miles Lubin, Google - optimization algorithms ([website](https://mlubin.github.io/), [publications](https://scholar.google.com/citations?user=jCoWyqUAAAAJ))
 * Yury Maximov, ZeroAvia - machine learning and optimization
-* Michael McKerns - optimization algorithms ([website](https://mmckerns.github.io/))
 * David Métivier, École Polytechnique - theoretical physics ([website](http://www.cmap.polytechnique.fr/~david.metivier/))
 * Juan Opsina, Orennia - electrical engineering ([website](https://juanjospina.github.io/), [publications](https://scholar.google.com/citations?user=T39zSxsAAAAJ&hl))
 * Parikshit Pareek, Indian Institute of Technology, Roorke - electrical engineering ([website](https://psquare-lab.github.io/), [publications](https://scholar.google.com/citations?user=LIWKqnYAAAAJ&hl))
